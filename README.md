@@ -60,7 +60,7 @@ https://github.com/user-attachments/assets/b3e6c580-877f-423f-88ea-6a4887729104
                                                      └────────────────┬────────────────┘
                                                                       ▼
                                                              Excel Report Generator
-                                                                    (VBA)
+                                                          (Visual Basic for Application)
                                                                       │
                                                                       ▼
                                                          Formatted Purchase Order Sheet
