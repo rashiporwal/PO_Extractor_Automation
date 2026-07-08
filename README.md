@@ -159,4 +159,10 @@ The application automatically creates a new worksheet and updates the dashboard.
 - User authentication
 
 ---
+## Repository Notice
 
+This repository contains the documentation for the Purchase Order Information Extractor project.
+
+The complete implementation is maintained in a private repository as it contains automation workflows developed for an organizational use case.
+
+The public repository is intended to showcase the project architecture, workflow, technologies used, and key features while respecting project confidentiality.
