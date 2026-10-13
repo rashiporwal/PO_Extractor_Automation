@@ -12,7 +12,21 @@ Purchase Order Information Extractor is designed to simplify the process of conv
 Instead of manually copying PO details from PDF documents, users can select a PDF from the dashboard and generate a fully formatted Purchase Order sheet automatically. The application also maintains a history of generated reports for easy tracking.
 
 ---
-https://github.com/user-attachments/assets/b3e6c580-877f-423f-88ea-6a4887729104
+
+
+
+https://github.com/user-attachments/assets/61d1d87e-793f-4d11-82be-b975551f7f6d
+
+
+
+
+
+
+
+
+
+
+
 
 ## Key Features
 
